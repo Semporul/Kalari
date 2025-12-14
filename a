@@ -1,0 +1,5 @@
+# default: current directory, auto-named output
+./save_folders_csv.sh
+
+# specify directory and output CSV
+./save_folders_csv.sh C:/GD-12thirumurai/Ponni_Creations  C:/GD-12thirumurai/Ponni_Creations/out.csv
